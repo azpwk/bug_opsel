@@ -1,0 +1,14 @@
+[
+{
+  "operator":"axis",
+  "bug":
+  [
+"staging.games.axis.co.id",
+"games.axis.co.id",
+"104.22.28.102",
+"b.api.grosir.axis.co.id",
+"lb.api.grosir.axis.co.id",
+"Zendesk1.appsflyer.com"
+  ]
+}
+]

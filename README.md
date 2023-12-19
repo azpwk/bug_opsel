@@ -1,5 +1,9 @@
-# Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+#  Bug Operator Seluler !!!
+
+xl
+axis
+telkomsel
+
 
 ### Tools:
 <p>

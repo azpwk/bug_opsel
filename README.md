@@ -5,7 +5,7 @@ axis
 telkomsel
 
 
-### Tools:
+### Config Tools:
 <p>Kpn Tunnel</p>
 <p>Clash For Android</p>
 <p>Http Costum</p>

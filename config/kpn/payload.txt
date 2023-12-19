@@ -1,0 +1,16 @@
+# ws config example
+
+GET wss://BUG/ HTTP/1.1[crlf]
+Host: [host][crlf]
+User-Agent: [ua][crlf]
+Upgrade: Websocket[crlf][crlf]
+
+
+# http config example
+
+GET / HTTP/1.1[crlf]
+Host: [host][crlf]
+User-Agent: [ua][crlf]
+Upgrade: Websocket[crlf][crlf]
+
+#GET/POST/PUT/DELETE http metod
